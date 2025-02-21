@@ -1,5 +1,5 @@
 <p align="center"><img src="https://media.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif" width="300"/></p>
-<p align="center"><a href="https://www.linkedin.com/in/mehdikarami"><img src="https://img.shields.io/badge/LinkedIn-blue?border-radius:px;&logo=linkedin" width="100"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/karami-mehdi"><img src="https://img.shields.io/badge/LinkedIn-blue?border-radius:px;&logo=linkedin" width="100"/></a></p>
 
 <h2 align="center">My personal sanctuary, where I let my thoughts run wild</h2>
 I'm a scientific mind by birth and a developer by choice.
