@@ -18,7 +18,7 @@ If you’re interested in what I’m up to, feel free to reach out to me for a f
 - [Scholarly Email](karami.mehdi.scholar@gmail.com)
 - [Work Correspondence Email](karami.mehdi.work@gmail.com)
 
-Oh, and if you’d like to trace the neural pathways of my profession, check out my [CV](https://nsswifter.github.io/CV/CV.pdf).
+Oh, and if you’d like to trace the neural pathways of my profession, check out my [CV](https://karami-mehdi.github.io/CV/CV.pdf).
 
 ## 👾 Technologies with which I unleash the Monster:
 <img src="assets/swift.png" width="40" height="40"/>&nbsp;
@@ -47,7 +47,7 @@ iCode, iCreate, iInnovate. 📱💻🌟
 
 ## 🔭 My Stats:
 <div align="center" style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nsswifter&show_icons=true&theme=holi" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=karami-mehdi&show_icons=true&theme=holi" height="180">
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsswifter&layout=compact&theme=vision-friendly-dark&title_color=71A9E8&text_color=D9E6FD&bg_color=030313&border_color=788CA5&langs_count=8" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karami-mehdi&layout=compact&theme=vision-friendly-dark&title_color=71A9E8&text_color=D9E6FD&bg_color=030313&border_color=788CA5&langs_count=8" height="180">
 </div>
