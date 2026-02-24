@@ -26,7 +26,10 @@
 
 &nbsp;
 
-Pre-Trained Generative Adversarial Network for Limited-Labeled Brain MRI Segmentation. <a href="https://doi.org/10.31224/6504">engrXiv, DOI: 10.31224/6504</a>.
+Pre-Trained Generative Adversarial Network for Limited-Labeled Brain MRI Segmentation.  
+<a href="https://doi.org/10.31224/6504">engrXiv, DOI: 10.31224/6504</a>.
+
+&nbsp;
 
 #### Contact
 - Scholarly: <karami.mehdi.scholar@gmail.com>  
