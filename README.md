@@ -25,6 +25,9 @@
     <img src="https://latex.codecogs.com/svg.latex?\color{black}\mathbf{P}_{\mathcal{N}(A)}%20=%20\mathbf{I}-%20A^{+}A" /> </picture>
 
 &nbsp;
+
+Pre-Trained Generative Adversarial Network for Limited-Labeled Brain MRI Segmentation. <a href="https://doi.org/10.31224/6504">engrXiv, DOI: 10.31224/6504</a>.
+
 #### Contact
 - Scholarly: <karami.mehdi.scholar@gmail.com>  
 - Work: <karami.mehdi.work@gmail.com>  
