@@ -16,8 +16,9 @@
         <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin" height="30" /> </picture></a>
 </p>
 <p align="center">
-    <a href="https://scholar.google.com/citations?user=oyN3v0cAAAAJ">Google Scholar</a>
-    <a href="https://orcid.org/0009-0009-7331-9892">ORCID</a>
+    <a href="https://scholar.google.com/citations?user=oyN3v0cAAAAJ">Google Scholar</a>,
+    <a href="https://orcid.org/0009-0009-7331-9892">ORCID</a>,
+    <a href="https://www.researchgate.net/profile/Mehdi-Karami-12">ResearchGate</a>
 </p>
 
 <br/>
