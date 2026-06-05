@@ -15,7 +15,11 @@
         <source srcset="https://img.shields.io/badge/LinkedIn-black?logo=linkedin" media="(prefers-color-scheme: light)" />
         <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin" height="30" /> </picture></a>
 </p>
+<p align="center">
+    <a href="https://scholar.google.com/citations?user=oyN3v0cAAAAJ">Google Scholar</a>
+</p>
 
+<br/>
 
 #### Silence the constraints; let the null speak
 
