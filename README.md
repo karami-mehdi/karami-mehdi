@@ -47,25 +47,25 @@ Pre-Trained Generative Adversarial Network for Limited-Labeled Brain MRI Segment
 <div align="center" style="display: flex;">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=karami-mehdi&show_icons=true&theme=github_dark&title_color=F1F6FB&text_color=F1F6FB&bg_color=161B22&border_color=3E444C&icon_color=F1F6FB"
+      srcset="https://my-private-profile-1ayirtw44-karami-mehdi.vercel.app/api?username=karami-mehdi&show_icons=true&theme=github_dark&title_color=F1F6FB&text_color=F1F6FB&bg_color=161B22&border_color=3E444C&icon_color=F1F6FB"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=karami-mehdi&show_icons=true&theme=graywhite&bg_color=F6F8FA&border_color=D2D9DF"
+      srcset="https://my-private-profile-1ayirtw44-karami-mehdi.vercel.app/api?username=karami-mehdi&show_icons=true&theme=graywhite&bg_color=F6F8FA&border_color=D2D9DF"
       media="(prefers-color-scheme: light)" />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=karami-mehdi&show_icons=true&theme=graywhite&bg_color=F6F8FA&border_color=D2D9DF"
+      src="https://my-private-profile-1ayirtw44-karami-mehdi.vercel.app/api?username=karami-mehdi&show_icons=true&theme=graywhite&bg_color=F6F8FA&border_color=D2D9DF"
       height="180" />
   </picture>
   &nbsp;&nbsp;
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=karami-mehdi&layout=compact&theme=github_dark&title_color=F1F6FB&text_color=F1F6FB&bg_color=161B22&border_color=3E444C&langs_count=8"
+      srcset="https://my-private-profile-1ayirtw44-karami-mehdi.vercel.app/api/top-langs/?username=karami-mehdi&layout=compact&theme=github_dark&title_color=F1F6FB&text_color=F1F6FB&bg_color=161B22&border_color=3E444C&langs_count=8"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=karami-mehdi&layout=compact&theme=graywhite&bg_color=F6F8FA&border_color=D2D9DF&langs_count=8"
+      srcset="https://my-private-profile-1ayirtw44-karami-mehdi.vercel.app/api/top-langs/?username=karami-mehdi&layout=compact&theme=graywhite&bg_color=F6F8FA&border_color=D2D9DF&langs_count=8"
       media="(prefers-color-scheme: light)" />
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=karami-mehdi&layout=compact&theme=graywhite&bg_color=F6F8FA&border_color=D2D9DF&langs_count=8"
+      src="https://my-private-profile-1ayirtw44-karami-mehdi.vercel.app/api/top-langs/?username=karami-mehdi&layout=compact&theme=graywhite&bg_color=F6F8FA&border_color=D2D9DF&langs_count=8"
       height="180" />
   </picture>
 </div>
